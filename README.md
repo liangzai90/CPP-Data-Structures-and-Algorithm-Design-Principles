@@ -3,6 +3,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/CPP-Data-Structures-and-Algorithms.svg)](https://github.com/TrainingByPackt/CPP-Data-Structures-and-Algorithm-Design-Principles/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/CPP-Data-Structures-and-Algorithm-Design-Principles/pulls)
 
+add by liang.学习、观察别人代码是怎么写的。提升阅读量！！！
+
 # C++ Data Structures and Algorithm Design Principles
 C++ is a mature multi-paradigm programming language that enables you to write high-level code with a high degree of control over the hardware. Today, significant parts of software infrastructure, including databases, browsers, multimedia frameworks, and GUI toolkits, are written in C++.
 
